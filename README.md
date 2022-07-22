@@ -62,10 +62,18 @@ python main.py
 - [(FIXED)(PYTUBE)(GITHUB)[BUG] 'NoneType' object has no attribute 'span'](https://github.com/pytube/pytube/issues/1218)
 
 - [(FIXED)(PYTUBE)(GITHUB)[[BUG] RegexMatchError get_throttling_function_name: could not find match for multiple](https://github.com/pytube/pytube/issues/1293)
+<<<<<<< HEAD
 - [(FIXED)pytube.exceptions.RegexMatchError: get_throttling_function_name: could not find match for multiple[BUG] #1105](https://github.com/pytube/pytube/issues/1105)
 ![image](https://github.com/popyue/YTDownloader_GUI/blob/main/img/RegexMatchError.png)
+=======
+![image](https://github.com/popyue/YTDownloader_GUI/blob/main/img/RegexMatchError.png)
+
+>>>>>>> 26893c9c42498cdb29c0dc3c91031ac6f70826cc
 
 ### others
 
 - [CSS Color code](https://www.w3.org/wiki/CSS/Properties/color/keywords)
+<<<<<<< HEAD
 - [python requirement text](https://www.delftstack.com/howto/python/python-create-requirements.txt/)
+=======
+>>>>>>> 26893c9c42498cdb29c0dc3c91031ac6f70826cc
