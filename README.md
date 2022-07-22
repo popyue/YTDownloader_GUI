@@ -11,7 +11,7 @@
 ```
 python main.py
 ```
-- [image](https://github.com/popyue/YTDownloader_GUI/blob/main/img/Execution1.png)
+![image](https://github.com/popyue/YTDownloader_GUI/blob/main/img/Execution1.png)
 
 ## Reference 
 
@@ -41,12 +41,12 @@ python main.py
 ### Trouble Shooting
 
 - [(FIXED) Tips On Fixing The “urllib.error.HTTPError: HTTP Error 410: Gone in Pytube” Error](https://ittutoria.net/tips-on-fixing-the-urllib-error-httperror-http-error-410-gone-in-pytube-error/)
-- [image](https://github.com/popyue/YTDownloader_GUI/blob/main/img/HTTPError.png)
+![image](https://github.com/popyue/YTDownloader_GUI/blob/main/img/HTTPError.png)
 
 - [(FIXED)(PYTUBE)(GITHUB)[BUG] 'NoneType' object has no attribute 'span'](https://github.com/pytube/pytube/issues/1218)
 
 - [(FIXED)(PYTUBE)(GITHUB)[[BUG] RegexMatchError get_throttling_function_name: could not find match for multiple](https://github.com/pytube/pytube/issues/1293)
-- [image](https://github.com/popyue/YTDownloader_GUI/blob/main/img/RegexMatchError.png)
+![image](https://github.com/popyue/YTDownloader_GUI/blob/main/img/RegexMatchError.png)
 
 
 ### others
