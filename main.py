@@ -105,7 +105,7 @@ def Widgets():
 	download = Button(root, text="Download", command=Downloads, width=20, bg="thistle1", pady=10, padx=15, relief=GROOVE, font="Georgia 13")
 	download.grid(row=5, column=1, pady=5, padx=5)
 
-	# Progress Bar
+	# Progress Bar (ttk library)
 	global progressbar
 	progressbar = ttk.Progressbar(root, orient="horizontal", length=300)
 	progressbar.grid(row=10, column=1, pady=10)
@@ -202,7 +202,7 @@ root.geometry("450x350") # Set Window Size
 youtube_link = StringVar()
 download_Path = StringVar()
 percentage = StringVar()
-ytdChoice = ttk.Combobox(root)
+ytdChoice = ttk.Combobox(root) # Combobox from ttk
 
 
 # Calling the Widgets() function
